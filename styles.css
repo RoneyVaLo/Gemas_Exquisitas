@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+header {
+  background-color: #ffd700;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar-nav {
+  justify-content: center;
+}
+
+.carousel-item img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.image-album .card {
+  height: 100%;
+}
+
+.image-album .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.image-album .card-text {
+  margin: 0;
+  font-size: 14px;
+}
